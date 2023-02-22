@@ -9,8 +9,7 @@ My current personal project is [com](https://github.com/zhangxiaofeng05/com), an
  - Telegram: https://t.me/zhangxiaofeng05
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-[![zhangxiaofeng05's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangxiaofeng05)](https://github.com/zhangxiaofeng05)
-
+[![zhangxiaofeng05's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangxiaofeng05&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 🌱 I’m currently learning ... -->
